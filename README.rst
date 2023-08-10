@@ -2,7 +2,7 @@
  API Documentation Tool
 ========================
 
-.. images:: https://github.com/Apipie/apipie-rails/actions/workflows/build.yml/badge.svg
+.. image:: https://github.com/Apipie/apipie-rails/actions/workflows/build.yml/badge.svg
     :target: https://github.com/Apipie/apipie-rails/actions/workflows/build.yml
 .. image:: https://codeclimate.com/github/Apipie/apipie-rails.svg
     :target: https://codeclimate.com/github/Apipie/apipie-rails
